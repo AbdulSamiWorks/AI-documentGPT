@@ -9,7 +9,7 @@ certifi==2023.7.22
 charset-normalizer==3.2.0
 click==8.1.6
 colorama==0.4.6
-dataclasses-json==0.6.3         # ✅ Updated: supports Python 3.13
+dataclasses-json==0.5.9         # ✅ Updated: supports Python 3.13
 decorator==5.1.1
 faiss-cpu==1.7.4
 filelock==3.12.2
